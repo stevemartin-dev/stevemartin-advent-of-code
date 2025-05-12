@@ -31,7 +31,7 @@ Find the position of the first character that causes Santa to enter the basement
 
 ### Ruby Implementation
 
-```ruby
+```
 # Part 1 Solution
 def find_floor(instructions)
   floor = 0

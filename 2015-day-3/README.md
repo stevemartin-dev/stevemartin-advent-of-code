@@ -28,7 +28,7 @@ Santa is now assisted by Robo-Santa. They take turns following the movement inst
 
 ### Ruby Implementation
 
-```ruby
+```
 # Part 1 Solution
 def count_houses_with_presents(directions)
   x, y = 0, 0
